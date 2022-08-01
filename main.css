@@ -105,6 +105,10 @@ h2.logo {
     color: var(--light-red);
 }
 
+footer {
+    background-color: var(--blue);
+}
+
 
 /* Small Screen */
 @media screen and (min-width: 576px) {
