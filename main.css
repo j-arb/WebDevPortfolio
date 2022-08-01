@@ -150,6 +150,10 @@ h2.logo {
         display: inline;
     }
 
+    .menu-list {
+        margin-top: 28px
+    }
+
     .menu-item a:hover, .menu-item a:active {
         color: black;
     }
@@ -168,7 +172,7 @@ h2.logo {
     }
 
     .social-buttons-wrapper {
-        margin-top: 35px;
+        margin-top: 23px;
         margin-left: 60px;
     }
 }
